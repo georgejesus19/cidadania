@@ -1,0 +1,29 @@
+.texto, .texto1, .texto2 {
+    text-align: justify;
+    font: 20px times new roman;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 16px;
+    padding: 20px 50px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ececec;
+    border-radius: 10px;
+    max-width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #ececec;
+    border-radius: 10px;
+    max-width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
